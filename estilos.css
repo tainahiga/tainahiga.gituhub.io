@@ -1,0 +1,75 @@
+/* TAINÁ CORRÊA HIGA 715993-2 */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;
+    margin: 20px;
+    margin-top: 30px;
+    font-size: 20px;
+    
+}
+p {
+    text-align: left;
+    line-height: 15px;
+    text-indent: 20px;
+    padding: 0 45px;
+    width: 450px;
+    
+}
+ol {
+    text-align: left;
+    line-height: 15px;
+    text-indent: 20px;
+    padding: 0 45px;
+    width: 500px;
+}
+img {
+    height: 500px;
+    width: 500px;
+    border-radius: 75%;
+}
+figcaption {
+    margin-top: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+h1 {
+    margin-top: 50px;
+    text-indent: 50px;
+}
+h2 {
+    margin-top: 50px;
+    text-indent: 50px;
+}
+h5 {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    text-indent: 50px;
+    display: inline-block;  
+}
+#bgirl-jilou {
+    float: right;
+    position: absolute;
+    top: 250px;
+    right: 50px;
+}
+#bboy-ratin {
+    float: right;
+    position: absolute;
+    top: 250px;
+    right: 50px;
+}
+#os-gemeos {
+    float: right;
+    position: absolute;
+    top: 875px;
+    right: 50px;
+}
+#dj-niko {
+    float: right;
+    position: absolute;
+    top: 1500px;
+    right: 50px;    
+}
+
